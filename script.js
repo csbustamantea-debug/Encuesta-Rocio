@@ -1,21 +1,20 @@
-
 // 1. Banco de preguntas
 
 const preguntas = [
     {
-        texto: "¿Cuál es mi comida favorita?",
-        opciones: ["Pizza", "pollo", "cocido boyacence", "Sushi"],
-        correcta: "pollo"
+        texto: "¿Que tipo de estilo tengo?",
+        opciones: ["Old school", "Disco", "India Maria", "Rockera"],
+        correcta: "India Maria"
     },
     {
         texto: "¿Cuál sería mi viaje soñado?",
-        opciones: ["París", "dubai", "brazil", "México"],
-        correcta: "brazil"
+        opciones: ["París", "Dubai", "Brazil", "México"],
+        correcta: "Brazil"
     },
     {
-        texto: "¿Qué prefiero hacer un domingo?",
-        opciones: ["Dormir", "Viajar", "ir a cine", "Hacer ejercicio"],
-        correcta: "viajar"
+        texto: "¿Cual seria mi plan perfecto?",
+        opciones: ["Ver el atardecer", "Hablar como loro", "Ir a moserrate", "Buscar las esferas del dragon"],
+        correcta: "Ver el atardecer"
     },
     {
         texto: "¿Qué regalo me gustaría recibir?",
@@ -23,9 +22,14 @@ const preguntas = [
         correcta: "rosas"
     },
     {
-        texto: "¿Qué es lo que más valoro?",
-        opciones: ["El dinero", "tiempo de calidad", "Los regalos", "la lealtad"],
-        correcta: "la lealtad"
+        texto: "¿Cuantos tatuajes tenia?",
+        opciones: ["30", "20", "15", "69"],
+        correcta: "20"
+    },
+        {
+        texto: "¿Cual es mi restaurante favorito?",
+        opciones: ["Mc donalds", "Crepes and wafles", "Surtidora la 22", "Plaza de abastos"],
+        correcta: "Crepes and wafles"
     }
 ];
 
