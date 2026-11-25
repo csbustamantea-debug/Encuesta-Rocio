@@ -2,7 +2,7 @@
 
 const preguntas = [
     {
-        texto: "¿Que tipo de estilo tengo?",
+        texto: "¿Que color me gusta?",
         opciones: ["Old school", "Disco", "India Maria", "Rockera"],
         correcta: "India Maria"
     },
